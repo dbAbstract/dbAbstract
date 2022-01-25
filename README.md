@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Taqi Enari
-- I'm interested in Software Engineering. Fields like Web Development, Software Development and Machine Learning
+- I'm interested in Software Engineering and in fields like Web Development, Software Development and Machine Learning
 - 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on Full-stack projects
 - 📫 How to reach me bmtaki335@gmail.com

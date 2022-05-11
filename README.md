@@ -2,7 +2,7 @@
 - I'm interested in Software Engineering and in fields like Backend Web Development, Software Development and Machine Learning
 - Python, Java, JavaScript, HTML, CSS
 - Familiar with Express.js (Node.js), MySQL, YOLOv4 Deep Learning, Git, Linux Bash
-- 💞️ I’m looking to collaborate on Full-stack projects
+- Open to collaborate on Full-stack projects!
 - 📫 How to reach me bmtaki335@gmail.com
 
 <!---

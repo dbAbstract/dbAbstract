@@ -1,7 +1,7 @@
 - Currently a Software Engineer at Rakuten Mobile Inc., Tokyo, Japan.
 - I'm interested in Software Engineering and in fields like Backend Web Development, Software Development and Machine Learning
-- Python, Java, JavaScript, HTML, CSS
-- Familiar with Express.js (Node.js), MySQL, YOLOv4 Deep Learning, Git, Linux Bash
+- Interests in languages/technologies like Python, Java, JavaScript, Rust, Rocket, HTML, CSS
+- Familiar with Express.js (Node.js), MySQL, YOLOv4 Deep Learning, Git, Linux Bash, Rocket, SQLite
 - Open to collaborate on Full-stack projects!
 - 📫 How to reach me bmtaki335@gmail.com
 

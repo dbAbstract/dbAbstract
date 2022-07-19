@@ -1,9 +1,6 @@
-- Currently a Software Engineer at Rakuten Mobile Inc., Tokyo, Japan.
-- I'm interested in Software Engineering and in fields like Backend Web Development, Software Development and Machine Learning
-- Interests in languages/technologies like Python, Java, JavaScript, Rust, Rocket, HTML, CSS
-- Familiar with Express.js (Node.js), MySQL, YOLOv4 Deep Learning, Git, Linux Bash, Rocket, SQLite
-- Open to collaborate on Full-stack projects!
-- 📫 How to reach me bmtaki335@gmail.com
+- Currently a Software Engineer at Rakuten, Tokyo, Japan.
+- Interests in languages/technologies like Python, Java, JavaScript, Jetpack, HTML, CSS
+- Familiar with Express.js (Node.js), Jetpack Compose, RoomDB, MySQL, Git, Linux Bash, Rocket, SQLite
 
 <!---
 dbAbstract/dbAbstract is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

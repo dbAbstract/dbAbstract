@@ -1,4 +1,4 @@
-- Currently a Software Engineer at Rakuten, Tokyo, Japan.
+- Currently a Software Engineer in Tokyo, Japan.
 - Interests in languages/technologies like Python, Java, JavaScript, Jetpack, HTML, CSS
 - Familiar with Express.js (Node.js), Jetpack Compose, RoomDB, MySQL, Git, Linux Bash, Rocket, SQLite
 
